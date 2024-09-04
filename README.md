@@ -4,7 +4,12 @@
 
 
 ## Modules
-### Protect data and communicate incidents 
+### Module 1: Protect data and communicate incidents 
+
+### Module 2: Esclate incident 
+
+### Module 3: 
+
 
 ## Course Certificate
 ![2e](https://github.com/user-attachments/assets/af04d320-0fd6-4188-b2ea-1d404cf378b5)
