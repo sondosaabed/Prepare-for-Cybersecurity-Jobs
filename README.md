@@ -8,7 +8,11 @@
 
 ### Module 2: Esclate incident 
 
-### Module 3: 
+### Module 3: Communicate effectively to influence stakeholders
+
+### Module 4: Engage with the cybersecurity community
+
+## Module 5: Find and apply for sybersecurity jobs
 
 
 ## Course Certificate
